@@ -1,6 +1,8 @@
 # Habit-Tracker
 In this app you can add yourt daily habit which you want to track everyday and improve your daily lifestyle. It was created using React-Redux.
 
+URL- https://65292ae0c0d20526b0c19f84--earnest-stardust-747043.netlify.app/
+
 ## Getting Started with Create React App
 This project was bootstrapped with Create React App.
 
